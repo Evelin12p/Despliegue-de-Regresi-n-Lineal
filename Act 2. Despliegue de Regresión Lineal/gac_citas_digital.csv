@@ -1,0 +1,667 @@
+Fecha,Estatus de Lead,Potencial de compra,PDM,Asesor Asignado
+2025-04,Finalizado,90,TRUE,Nancy
+2025-04,Finalizado,40,FALSE,Victor
+2025-04,Finalizado,85,FALSE,Alan
+2025-04,Venta,90,FALSE,Mauricio
+2025-04,Finalizado,90,TRUE,Mauricio
+2025-04,Activo,85,TRUE,Mauricio
+2025-04,Finalizado,20,FALSE,Ricardo
+2025-04,Finalizado,50,TRUE,Mauricio
+2025-04,Finalizado,80,FALSE,Nancy
+2025-04,Finalizado,80,TRUE,Alan
+2025-04,Venta,100,TRUE,Mauricio
+2025-04,Finalizado,80,TRUE,Alan
+2025-04,Finalizado,60,FALSE,Aurelio
+2025-04,Finalizado,90,TRUE,Eduardo
+2025-04,Finalizado,60,TRUE,Alan
+2025-04,Venta,80,FALSE,Victor
+2025-04,Activo,80,FALSE,Mauricio
+2025-04,Finalizado,60,TRUE,Alan
+2025-04,Venta,100,TRUE,Pedro
+2025-04,Activo,80,TRUE,Mauricio
+2025-04,Finalizado,20,TRUE,Pedro
+2025-04,Activo,80,TRUE,Alan
+2025-04,Activo,70,FALSE,Laura
+2025-04,Activo,80,FALSE,Pedro
+2025-04,Activo,80,FALSE,Mauricio
+2025-04,Activo,70,FALSE,Ricardo
+2025-04,Activo,40,FALSE,Pedro
+2025-04,Venta,100,TRUE,Alan
+2025-04,Activo,70,TRUE,Eduardo
+2025-04,Activo,70,FALSE,Victor
+2025-04,Activo,80,TRUE,Aurelio
+2025-05,Venta,80,TRUE,Ricardo
+2025-05,Activo,80,TRUE,Ricardo
+2025-05,Finalizado,90,TRUE,Mauricio
+2025-05,Finalizado,70,TRUE,Mauricio
+2025-05,Finalizado,90,TRUE,Referido Pablo
+2025-05,Finalizado,70,TRUE,Eduardo
+2025-05,Finalizado,90,TRUE,Eduardo
+2025-05,Finalizado,80,TRUE,Nancy
+2025-05,Finalizado,70,FALSE,Aurelio
+2025-05,Venta,90,TRUE,Mauricio
+2025-05,Finalizado,60,TRUE,Eduardo
+2025-05,Finalizado,80,TRUE,Ricardo
+2025-05,Venta,95,TRUE,Victor
+2025-05,Venta,80,TRUE,Victor
+2025-05,Venta,80,TRUE,Aurelio
+2025-05,Activo,80,TRUE,Nancy
+2025-05,Activo,80,TRUE,Pedro
+2025-05,Activo,70,TRUE,Pedro/Eduardo
+2025-05,Venta,80,TRUE,Sin registro
+2025-05,Venta,75,TRUE,Pedro
+2025-05,Activo,90,TRUE,Aurelio
+2025-05,Venta,85,TRUE,Victor
+2025-05,Activo,70,TRUE,Victor
+2025-05,Activo,90,TRUE,Aurelio
+2025-05,Venta,85,TRUE,Ricardo
+2025-06,Finalizado,80,TRUE,Ricardo
+2025-06,Activo,70,TRUE,Pedro
+2025-06,Activo,80,TRUE,Sergio Raymundo
+2025-06,Finalizado,90,TRUE,Alan
+2025-06,Activo,90,TRUE,Pedro
+2025-06,Venta,90,TRUE,Alan
+2025-06,Venta,85,TRUE,Sergio Raymundo
+2025-06,Activo,75,TRUE,Ricardo
+2025-06,Activo,80,FALSE,Mauricio
+2025-06,Venta,90,TRUE,Pedro
+2025-06,Finalizado,70,FALSE,Sin registro
+2025-06,Activo,5,TRUE,Mauricio
+2025-06,Activo,70,TRUE,Victor
+2025-06,Venta,90,TRUE,Pedro
+2025-06,Venta,90,TRUE,Pedro
+2025-06,Venta,90,TRUE,Alan
+2025-06,Activo,50,TRUE,Marcos Coca
+2025-06,Venta,70,TRUE,Victor
+2025-06,Finalizado,80,TRUE,Miguel
+2025-06,Activo,70,TRUE,Victor
+2025-06,Activo,70,TRUE,Mauricio
+2025-06,Activo,70,TRUE,Mauricio
+2025-06,Activo,60,TRUE,Mauricio
+2025-06,Activo,60,TRUE,Victor
+2025-06,Activo,70,TRUE,Aurelio
+2025-06,Activo,60,FALSE,Alan
+2025-07,Activo,60,TRUE,Alan
+2025-07,Activo,60,TRUE,Victor
+2025-07,Activo,70,TRUE,Aurelio
+2025-07,Activo,70,FALSE,Carlos Texis
+2025-07,Activo,90,TRUE,Mauricio
+2025-07,Activo,80,FALSE,Sin registro
+2025-07,Activo,80,TRUE,Sin registro
+2025-07,Activo,80,TRUE,Alan Gonzalez
+2025-07,Activo,85,TRUE,Alan Gonzalez
+2025-07,Activo,80,TRUE,Aurelio
+2025-07,Activo,80,TRUE,Ricardo
+2025-07,Activo,80,FALSE,Alan
+2025-07,Activo,80,FALSE,Aurelio
+2025-07,Activo,80,FALSE,Pedro Antonio
+2025-07,Activo,80,FALSE,Pedro Antonio
+2025-07,Activo,80,TRUE,Aurelio
+2025-07,Finalizado,70,TRUE,Aurelio
+2025-07,Activo,75,FALSE,Ignacio
+2025-07,Activo,80,TRUE,Pedro Antonio
+2025-07,Activo,90,TRUE,Marcos Coca
+2025-07,Activo,90,TRUE,Victor
+2025-07,Activo,80,TRUE,Mauricio
+2025-07,Activo,60,TRUE,Pedro Antonio
+2025-07,Activo,80,TRUE,Mauricio
+2025-07,Activo,85,TRUE,Marcos Coca
+2025-07,Activo,80,TRUE,Victor
+2025-07,Activo,80,TRUE,Sin registro
+2025-07,Activo,80,TRUE,Alan Gonzalez
+2025-07,Activo,80,TRUE,Mauricio
+2025-07,Activo,80,TRUE,Marcos Coca
+2025-07,Activo,60,TRUE,Ignacio
+2025-07,Activo,80,FALSE,Daniel
+2025-07,Activo,80,TRUE,Pedro
+2025-08,Activo,80,TRUE,Mercedes
+2025-08,Activo,70,FALSE,Mercedes
+2025-08,Activo,80,TRUE,Mercedes
+2025-08,Activo,80,TRUE,Pedro
+2025-08,Activo,80,TRUE,Pedro
+2025-08,Activo,60,TRUE,Alan/Pedro
+2025-08,Activo,70,TRUE,Ricardo
+2025-08,Activo,90,TRUE,Pedro
+2025-08,Activo,75,TRUE,Pedro
+2025-08,Activo,70,TRUE,Pedro
+2025-08,Activo,70,FALSE,Alan
+2025-08,Activo,70,TRUE,Mauricio
+2025-08,Activo,80,TRUE,Pedro
+2025-08,Activo,75,TRUE,Mauricio
+2025-08,Activo,75,TRUE,Mauricio
+2025-08,Activo,80,TRUE,Alan
+2025-08,Finalizado,50,FALSE,Alan
+2025-08,Activo,70,TRUE,Alan
+2025-08,Activo,70,TRUE,Alan
+2025-08,Activo,70,TRUE,Aurelio
+2025-08,Activo,60,FALSE,Victor
+2025-08,Activo,70,FALSE,Victor
+2025-08,Activo,70,TRUE,Mauricio
+2025-08,Activo,80,TRUE,Mauricio
+2025-08,Activo,80,TRUE,Mauricio
+2025-08,Activo,80,TRUE,Mauricio
+2025-08,Activo,50,FALSE,Mauricio
+2025-08,Activo,80,TRUE,Mercedes
+2025-08,Activo,80,TRUE,Mauricio
+2025-08,Activo,60,TRUE,Victor
+2025-08,Activo,80,TRUE,Ricardo
+2025-08,Activo,50,FALSE,Marcos
+2025-08,Activo,60,FALSE,Marcos
+2025-08,Activo,80,TRUE,Marcos
+2025-08,Activo,80,TRUE,Victor
+2025-08,Activo,60,TRUE,Jeamy Custom
+2025-08,Activo,80,TRUE,Marcos
+2025-08,Activo,80,TRUE,Victor
+2025-08,Activo,50,FALSE,Victor
+2025-08,Activo,50,TRUE,Mauricio
+2025-08,Activo,50,FALSE,Ricardo
+2025-08,Activo,60,FALSE,Ricardo
+2025-08,Activo,80,TRUE,Aurelio
+2025-08,Activo,60,TRUE,Victor
+2025-08,Activo,60,FALSE,Alan
+2025-09,Activo,60,TRUE,Alan
+2025-09,Activo,60,FALSE,Alan
+2025-09,Activo,60,FALSE,Ignacio
+2025-09,Activo,50,FALSE,Alan
+2025-09,Activo,60,TRUE,Alan
+2025-09,Activo,80,TRUE,Alan
+2025-09,Activo,60,FALSE,Mercedes
+2025-09,Activo,70,FALSE,Mercedes
+2025-09,Activo,60,FALSE,Mercedes
+2025-09,Activo,80,TRUE,Alan
+2025-09,Activo,80,TRUE,Alan
+2025-09,Activo,60,TRUE,Julio Cesar
+2025-09,Activo,80,TRUE,Julio Cesar
+2025-09,Activo,80,TRUE,Aurelio
+2025-09,Activo,70,TRUE,Pedro Antonio
+2025-09,Activo,70,FALSE,Sin registro
+2025-09,Sin registro,70,TRUE,Marcos
+2025-09,Activo,60,FALSE,Mauricio
+2025-09,Activo,80,TRUE,Victor
+2025-09,Activo,80,TRUE,Victor
+2025-09,Activo,80,TRUE,Aurelio
+2025-09,Activo,80,TRUE,Victor
+2025-09,Activo,80,FALSE,Aurelio
+2025-09,Activo,80,TRUE,Aurelio
+2025-09,Activo,80,FALSE,Alan
+2025-09,Activo,80,FALSE,Pedro
+2025-09,Activo,70,FALSE,Marcos
+2025-09,Activo,80,FALSE,Marcos
+2025-09,Activo,80,FALSE,Mauricio
+2025-09,Activo,60,FALSE,Julio
+2025-09,Activo,80,FALSE,Pedro
+2025-09,Activo,80,FALSE,Ignacio
+2025-09,Activo,60,FALSE,Aurelio
+2025-09,Activo,80,TRUE,Pedro
+2025-09,Activo,80,TRUE,Pedro
+2025-09,Activo,80,TRUE,Pedro
+2025-09,Activo,80,FALSE,Julio
+2025-09,Activo,80,TRUE,Pedro
+2025-09,Activo,50,FALSE,Mauricio
+2025-09,Activo,60,FALSE,Aurelio
+2025-09,Activo,50,TRUE,Julio
+2025-09,Activo,80,TRUE,Mauricio
+2025-09,Activo,70,TRUE,Aurelio
+2025-09,Activo,70,FALSE,Aurelio
+2025-09,Activo,80,TRUE,Pedro
+2025-09,Activo,80,FALSE,Pedro
+2025-09,Activo,80,FALSE,Aurelio
+2025-09,Activo,70,FALSE,Mauricio
+2025-09,Activo,80,FALSE,Victor
+2025-09,Activo,80,FALSE,Pedro
+2025-09,Activo,60,FALSE,Mercedes
+2025-09,Activo,80,FALSE,Ignacio
+2025-09,Activo,80,FALSE,Victor
+2025-09,Activo,60,FALSE,Mauricio
+2025-09,Activo,80,FALSE,Pedro
+2025-09,Activo,80,TRUE,Pedro
+2025-09,Activo,80,FALSE,Aurelio
+2025-09,Activo,80,FALSE,Mercedes
+2025-09,Activo,80,FALSE,Ana
+2025-09,Activo,80,TRUE,Alan
+2025-09,Activo,70,FALSE,Mauricio
+2025-09,Activo,80,FALSE,Ricardo
+2025-09,Activo,80,FALSE,Mauricio
+2025-10,Activo,80,TRUE,Jhosslan
+2025-10,Activo,95,TRUE,Aurelio
+2025-10,Activo,70,FALSE,Ignacio
+2025-10,Activo,80,FALSE,Aurelio
+2025-10,Activo,60,FALSE,Aurelio
+2025-10,Activo,70,TRUE,Aurelio
+2025-10,Activo,80,FALSE,Jhosslan
+2025-10,Activo,80,FALSE,Alan
+2025-10,Activo,80,FALSE,Victor
+2025-10,Activo,75,TRUE,Ignacio
+2025-10,Activo,60,TRUE,Pedro
+2025-10,Activo,70,FALSE,Julio
+2025-10,Activo,85,FALSE,Antonio
+2025-10,Activo,80,FALSE,Ricardo
+2025-10,Activo,80,TRUE,Victor
+2025-10,Activo,80,FALSE,Victor
+2025-10,Activo,70,TRUE,Alan
+2025-10,Activo,85,TRUE,Pedro
+2025-10,Activo,70,FALSE,Pedro
+2025-10,Activo,65,TRUE,Pedro
+2025-10,Activo,70,FALSE,Mauricio
+2025-10,Activo,80,FALSE,Aurelio
+2025-10,Activo,80,FALSE,Aurelio
+2025-10,Activo,80,FALSE,Aurelio
+2025-10,Activo,80,FALSE,Omar
+2025-10,Activo,80,FALSE,Omar
+2025-10,Activo,80,FALSE,Omar
+2025-10,Activo,80,FALSE,Omar
+2025-10,Activo,80,FALSE,Julio
+2025-10,Activo,70,FALSE,Alan
+2025-10,Activo,65,TRUE,Alan
+2025-10,Activo,80,FALSE,Jhosslan
+2025-10,Activo,80,FALSE,Mauricio
+2025-10,Activo,60,FALSE,Omar
+2025-10,Activo,80,TRUE,Aurelio
+2025-10,Activo,90,FALSE,Aurelio
+2025-10,Activo,70,TRUE,Victor
+2025-10,Activo,80,FALSE,Victor
+2025-10,Activo,80,FALSE,Aurelio
+2025-10,Activo,80,TRUE,Pedro
+2025-10,Activo,75,FALSE,Mauricio
+2025-10,Activo,60,TRUE,Victor
+2025-10,Activo,70,FALSE,Mauricio
+2025-10,Activo,85,FALSE,Nancy
+2025-10,Activo,80,TRUE,Victor
+2025-10,Activo,80,FALSE,Ignacio
+2025-10,Activo,80,TRUE,Victor
+2025-10,Activo,70,FALSE,Aurelio
+2025-10,Activo,85,FALSE,Ignacio
+2025-10,Activo,70,FALSE,Aurelio
+2025-10,Activo,65,TRUE,Mauricio
+2025-10,Activo,70,FALSE,Pedro Antonio
+2025-10,Activo,80,FALSE,Mauricio
+2025-10,Activo,80,TRUE,Mauricio
+2025-10,Activo,80,FALSE,Marcos
+2025-10,Activo,70,TRUE,Pedro
+2025-10,Activo,65,FALSE,Pedro Antonio
+2025-10,Activo,80,FALSE,Pedro Antonio
+2025-10,Activo,80,TRUE,Mauricio
+2025-11,Activo,80,FALSE,Omar
+2025-11,Activo,80,TRUE,Alvaro
+2025-11,Activo,70,TRUE,Pedro Antonio
+2025-11,Activo,80,FALSE,Mauricio
+2025-11,Activo,80,FALSE,Mauricio
+2025-11,Activo,80,FALSE,Mauricio
+2025-11,Activo,80,FALSE,Victor
+2025-11,Activo,80,TRUE,Pedro Antonio
+2025-11,Activo,80,TRUE,Aurelio
+2025-11,Activo,60,TRUE,Victor
+2025-11,Activo,60,TRUE,Victor
+2025-11,Activo,70,FALSE,Pedro Antonio
+2025-11,Activo,80,TRUE,Alvaro
+2025-11,Activo,80,FALSE,Aurelio
+2025-11,Activo,70,FALSE,Aurelio
+2025-11,Activo,70,FALSE,Aurelio
+2025-11,Activo,70,FALSE,Alan
+2025-11,Activo,80,FALSE,Aurelio
+2025-11,Activo,80,TRUE,Aurelio
+2025-11,Activo,70,FALSE,Victor
+2025-11,Activo,70,FALSE,Victor
+2025-11,Activo,70,FALSE,Ricardo
+2025-11,Activo,80,FALSE,Mauricio
+2025-11,Activo,70,FALSE,Mauricio
+2025-11,Activo,70,FALSE,Mauricio
+2025-11,Activo,60,FALSE,Mauricio
+2025-11,Activo,90,TRUE,Victor
+2025-11,Activo,90,TRUE,Omar
+2025-11,Activo,80,FALSE,Aurelio
+2025-11,Activo,80,TRUE,Aurelio
+2025-11,Activo,70,FALSE,Pedro
+2025-11,Activo,70,FALSE,Aurelio
+2025-11,Activo,70,TRUE,Pedro
+2025-11,Activo,60,FALSE,Pedro Antonio
+2025-11,Activo,70,TRUE,Aurelio
+2025-11,Activo,80,FALSE,Mauricio
+2025-11,Activo,80,FALSE,Alvaro
+2025-11,Activo,70,FALSE,Pedro Antonio
+2025-11,Activo,70,FALSE,Omar
+2025-11,Activo,70,FALSE,Victor
+2025-11,Activo,80,TRUE,Aurelio
+2025-11,Activo,80,FALSE,Cesar
+2025-11,Activo,70,FALSE,Julio Cesar
+2025-11,Activo,70,TRUE,Julio Cesar
+2025-11,Activo,70,FALSE,Alan
+2025-11,Activo,80,TRUE,Aurelio
+2025-11,Activo,70,FALSE,Pedro Antonio
+2025-11,Activo,70,TRUE,Ignacio
+2025-11,Activo,80,FALSE,Nancy
+2025-11,Activo,80,FALSE,Aurelio
+2025-11,Activo,70,FALSE,Aurelio
+2025-11,Activo,80,TRUE,Pedro
+2025-12,Activo,80,TRUE,Victor
+2025-12,Activo,80,FALSE,Pedro Antonio
+2025-12,Activo,80,TRUE,Mauricio
+2025-12,Activo,70,TRUE,Pedro Antonio
+2025-12,Activo,70,FALSE,Pedro Antonio
+2025-12,Activo,80,FALSE,Sin registro
+2025-12,Activo,80,TRUE,Ricardo
+2025-12,Activo,80,TRUE,Ignacio
+2025-12,Activo,60,FALSE,Nancy
+2025-12,Activo,80,FALSE,Victor
+2025-12,Activo,80,FALSE,Mauricio
+2025-12,Activo,80,TRUE,Victor
+2025-12,Activo,80,FALSE,Omar
+2025-12,Activo,60,FALSE,Mauricio
+2025-12,Activo,80,TRUE,Victor
+2025-12,Activo,70,TRUE,Aurelio
+2025-12,Activo,90,TRUE,Cesar
+2025-12,Activo,80,FALSE,Victor
+2025-12,Activo,80,FALSE,Victor
+2025-12,Activo,80,FALSE,Victor
+2025-12,Activo,80,TRUE,Cesar
+2025-12,Activo,75,FALSE,Julio
+2025-12,Activo,80,TRUE,Nancy
+2025-12,Activo,80,TRUE,Nancy
+2025-12,Activo,80,TRUE,Mauricio
+2025-12,Activo,70,FALSE,Pedro
+2025-12,Activo,90,TRUE,Victor
+2025-12,Activo,80,TRUE,Mauricio
+2025-12,Activo,70,FALSE,Aurelio
+2025-12,Activo,70,FALSE,Aurelio
+2025-12,Activo,70,FALSE,Victor
+2025-12,Activo,60,FALSE,Mauricio
+2025-12,Activo,80,TRUE,Julio
+2025-12,Activo,70,FALSE,Julio
+2025-12,Activo,70,FALSE,Cesar
+2025-12,Activo,80,TRUE,Pedro
+2025-12,Activo,60,FALSE,Sin registro
+2025-12,Activo,70,TRUE,Ricardo
+2025-12,Activo,70,FALSE,Aurelio
+2025-12,Activo,70,FALSE,Ricardo
+2025-12,Activo,80,FALSE,Ricardo
+2025-12,Activo,70,FALSE,Ricardo
+2025-12,Activo,70,FALSE,Ricardo
+2025-12,Activo,70,FALSE,Aurelio
+2025-12,Activo,70,FALSE,Cesar Pestaña
+2025-12,Activo,80,FALSE,Victor
+2025-12,Activo,80,FALSE,Aurelio
+2026-01,Activo,70,FALSE,Mauricio
+2026-01,Activo,70,FALSE,Pedro
+2026-01,Activo,70,FALSE,Pedro Antonio
+2026-01,Activo,70,FALSE,Elizabeth
+2026-01,Activo,70,FALSE,Mauricio
+2026-01,Activo,70,FALSE,Ignacio
+2026-01,Activo,90,TRUE,Pedro
+2026-01,Activo,90,TRUE,Victor
+2026-01,Activo,80,FALSE,Victor
+2026-01,Activo,90,FALSE,Carlos Mejia
+2026-01,Activo,80,FALSE,Pedro
+2026-01,Activo,80,FALSE,Nancy
+2026-01,Activo,60,FALSE,Mauricio
+2026-01,Activo,70,TRUE,Victor
+2026-01,Activo,70,FALSE,Mauricio
+2026-01,Activo,80,FALSE,Aurelio
+2026-01,Activo,70,FALSE,Alvaro
+2026-01,Activo,60,FALSE,Julio Cesar
+2026-01,Activo,70,FALSE,Cesar
+2026-01,Activo,80,FALSE,Julio Cesar
+2026-01,Activo,80,TRUE,Ricardo
+2026-01,Activo,80,FALSE,Pedro
+2026-01,Activo,70,FALSE,Julio
+2026-01,Activo,90,FALSE,Alan
+2026-01,Activo,70,FALSE,Pedro Antonio
+2026-01,Activo,70,FALSE,Pedro Antonio
+2026-01,Activo,60,FALSE,Mauricio
+2026-01,Activo,60,FALSE,Pedro
+2026-01,Activo,60,FALSE,Pedro
+2026-01,Activo,70,TRUE,Alan
+2026-01,Activo,60,FALSE,Sin registro
+2026-01,Activo,80,FALSE,Alan
+2026-01,Activo,80,TRUE,Carlos Mejia
+2026-01,Activo,80,TRUE,Julio
+2026-01,Activo,80,TRUE,Mauricio
+2026-01,Activo,70,FALSE,Alan
+2026-02,Activo,80,TRUE,Pedro Antonio
+2026-02,Activo,80,TRUE,Pedro Antonio
+2026-02,Activo,80,TRUE,Mauricio
+2026-02,Activo,80,FALSE,Pedro
+2026-02,Activo,90,FALSE,Cesar Pestaña
+2026-02,Activo,90,TRUE,Aurelio
+2026-02,Activo,60,TRUE,Pedro
+2026-02,Activo,60,TRUE,Victor
+2026-02,Activo,70,FALSE,Sin registro
+2026-02,Activo,60,FALSE,Carlos Hernandez
+2026-02,Activo,80,FALSE,Carlos Mejia
+2026-02,Activo,70,FALSE,Victor
+2026-02,Activo,60,FALSE,Mauricio
+2026-02,Activo,70,TRUE,Alvaro
+2026-02,Sin registro,75,FALSE,Victor
+2026-02,Sin registro,75,FALSE,Cesar Pestaña
+2026-02,Activo,90,TRUE,Alan
+2026-02,Activo,80,FALSE,Julio
+2026-02,Activo,70,TRUE,Julio
+2026-02,Activo,100,TRUE,Aurelio
+2026-02,Activo,80,FALSE,Alan
+2026-02,Activo,75,TRUE,Julio
+2026-02,Activo,60,FALSE,Carlos Hdz
+2026-02,Sin registro,70,FALSE,Victor
+2026-02,Activo,70,FALSE,Carlos Hdz
+2026-02,Activo,60,TRUE,Sin registro
+2026-02,Activo,60,FALSE,Sin registro
+2026-02,Activo,70,TRUE,Victor
+2026-02,Activo,70,TRUE,Alan
+2026-02,Activo,70,FALSE,Mauricio
+2026-02,Activo,60,TRUE,Carlos Hdz
+2026-03,Activo,60,TRUE,Alvaro
+2026-03,Activo,80,TRUE,Victor
+2026-03,Activo,60,TRUE,Pedro Gonzalez
+2026-03,Activo,80,TRUE,Aurelio
+2026-03,Activo,70,TRUE,Aurelio
+2026-03,Activo,80,TRUE,Mauricio
+2026-03,Activo,70,TRUE,Mauricio
+2026-03,Activo,70,FALSE,Sin registro
+2026-03,Activo,70,TRUE,Mauricio
+2026-03,Activo,60,TRUE,Alan
+2026-03,Activo,70,TRUE,Julio Cesar
+2026-03,Activo,70,TRUE,Julio Cesar
+2026-03,Activo,70,TRUE,Julio Cesar
+2026-03,Activo,80,FALSE,Mauricio
+2026-03,Activo,90,FALSE,Cesar Pestaña
+2026-03,Activo,80,TRUE,Pedro Gonzalez
+2026-04,Activo,70,FALSE,Pedro Gonzalez
+2026-04,Activo,80,FALSE,Carlos Mejia
+2026-04,Activo,70,FALSE,Aurelio
+2026-04,Activo,70,FALSE,Carlos Mejia
+2026-04,Activo,65,FALSE,Mauricio
+2026-04,Activo,70,FALSE,Vanny
+2026-04,Activo,70,TRUE,Mauricio
+2026-04,Activo,80,TRUE,Mauricio
+2026-04,Activo,70,TRUE,Mauricio
+2026-04,Activo,60,FALSE,Aurelio
+2026-04,Activo,75,FALSE,Alvaro
+2026-04,Activo,80,FALSE,Ivan
+2026-04,Activo,60,FALSE,Mauricio
+2026-04,Activo,70,FALSE,Vanny
+2026-04,Activo,80,FALSE,Victor
+2026-04,Activo,50,FALSE,Victor
+2026-04,Activo,80,FALSE,Pedro
+2026-04,Activo,80,FALSE,Pedro
+2026-04,Activo,70,FALSE,Julio
+2026-04,Activo,70,TRUE,Nayeli
+2026-04,Activo,80,FALSE,Julio
+2026-04,Activo,50,TRUE,Pedro Gonzalez
+2026-04,Activo,70,FALSE,Mauricio
+2026-04,Activo,30,TRUE,Mauricio
+2026-04,Activo,30,FALSE,Mauricio
+2026-04,Activo,50,TRUE,Carlos Hernandez
+2026-04,Activo,50,TRUE,Pedro
+2026-04,Activo,70,FALSE,Mauricio
+2026-04,Activo,80,FALSE,Julio
+2026-04,Activo,70,FALSE,Pedro
+2026-04,Activo,80,FALSE,Pedro
+2026-04,Activo,70,FALSE,Carlos Mejia
+2026-04,Activo,70,FALSE,Mauricio
+2026-04,Activo,80,TRUE,Mauricio
+2026-04,Activo,75,TRUE,Pedro
+2026-04,Activo,75,FALSE,Pedro
+2026-04,Activo,70,TRUE,Mauricio
+2026-04,Activo,50,TRUE,Mauricio
+2026-04,Activo,80,TRUE,Carlos Mejia
+2026-04,Activo,50,TRUE,Mauricio
+2026-04,Activo,60,TRUE,Fatima
+2026-04,Activo,70,TRUE,Mauricio
+2026-04,Activo,70,FALSE,Mauricio
+2026-04,Activo,70,TRUE,Julio Cesar
+2026-04,Activo,70,TRUE,Mauricio
+2026-04,Activo,70,FALSE,Victor Sanchez
+2026-04,Activo,70,TRUE,Mauricio
+2026-04,Activo,70,FALSE,Mauricio
+2026-04,Activo,70,FALSE,Carlos
+2026-04,Activo,80,FALSE,Vanny
+2026-04,Activo,50,TRUE,Pedro Gonzalez
+2026-04,Activo,70,FALSE,Nayeli
+2026-04,Activo,30,FALSE,Julio Cesar
+2026-04,Activo,30,FALSE,Vanny
+2026-04,Activo,50,FALSE,Alvaro
+2026-05,Activo,75,TRUE,Mauricio
+2026-05,Sin registro,75,FALSE,Mauricio
+2026-05,Activo,75,FALSE,Pedro
+2026-05,Sin registro,75,TRUE,Pedro
+2026-05,Activo,75,FALSE,Mauricio
+2026-05,Activo,75,FALSE,Julio
+2026-05,Activo,75,FALSE,Victor
+2026-05,Activo,75,FALSE,Vanny
+2026-05,Activo,75,FALSE,Aurelio
+2026-05,Activo,75,TRUE,Pedro
+2026-05,Activo,75,FALSE,Mauricio
+2026-05,Activo,75,FALSE,Fatima
+2026-05,Activo,75,TRUE,Julio
+2026-05,Activo,75,TRUE,Pedro
+2026-05,Activo,75,TRUE,Aurelio
+2026-05,Activo,75,FALSE,Pedro
+2026-05,Activo,75,TRUE,Pedro
+2026-05,Activo,75,TRUE,Aurelio
+2026-05,Activo,75,FALSE,Aurelio
+2026-05,Activo,75,TRUE,Aurelio
+2026-05,Activo,75,FALSE,Aurelio
+2026-05,Activo,75,TRUE,Julio
+2026-05,Activo,75,FALSE,Aurelio
+2026-05,Activo,75,FALSE,Pedro
+2026-05,Activo,75,FALSE,Aurelio
+2026-05,Activo,75,TRUE,Mario
+2026-05,Activo,70,TRUE,Pedro
+2026-05,Activo,75,FALSE,Pedro
+2026-05,Activo,75,FALSE,Mauricio
+2026-05,Activo,100,TRUE,Carlos
+2026-05,Activo,100,FALSE,Mauricio
+2026-05,Activo,75,TRUE,Fatima
+2026-05,Activo,75,TRUE,Fatima
+2026-05,Activo,75,FALSE,Carlos Mejia
+2026-05,Activo,75,TRUE,Pedro
+2026-05,Activo,75,TRUE,Mario
+2026-05,Activo,75,TRUE,Aurelio
+2026-05,Activo,75,TRUE,Mauricio
+2026-05,Activo,50,FALSE,Pedro
+2026-05,Sin registro,75,FALSE,Vanny
+2026-05,Activo,75,TRUE,Carlos Mejia
+2026-05,Sin registro,75,TRUE,Vanny
+2026-05,Sin registro,50,FALSE,Pedro
+2026-05,Sin registro,50,FALSE,Pedro
+2026-05,Sin registro,75,TRUE,Pedro
+2026-05,Sin registro,75,TRUE,Victor
+2026-05,Activo,70,TRUE,Victor
+2026-05,Activo,70,FALSE,Pedro
+2026-05,Activo,70,TRUE,Aurelio
+2026-05,Activo,70,TRUE,Pedro
+2026-05,Activo,50,FALSE,Aurelio
+2026-05,Activo,50,FALSE,Victor
+2026-05,Activo,50,FALSE,Pedro
+2026-05,Activo,100,FALSE,Victor
+2026-05,Activo,100,TRUE,Aurelio
+2026-05,Activo,100,FALSE,Victor
+2026-05,Activo,80,FALSE,Aurelio
+2026-05,Activo,100,TRUE,Ana
+2026-05,Activo,100,TRUE,Victor
+2026-06,Activo,50,FALSE,Mario
+2026-06,Activo,50,TRUE,Pedro Antonio
+2026-06,Activo,50,FALSE,Nayeli
+2026-06,Activo,100,FALSE,Pedro
+2026-06,Activo,70,TRUE,Vanny
+2026-06,Activo,80,TRUE,Carlos Mejia
+2026-06,Activo,60,FALSE,Carlos Mejia
+2026-06,Activo,80,TRUE,Ignacio
+2026-06,Activo,75,FALSE,Sin registro
+2026-06,Activo,75,FALSE,Mario Varela
+2026-06,Activo,50,TRUE,Mario Varela
+2026-06,Activo,50,FALSE,Julio Cesar
+2026-06,Activo,50,TRUE,Mario Varela
+2026-06,Activo,70,TRUE,Aurelio
+2026-06,Activo,50,FALSE,Fer
+2026-06,Activo,70,FALSE,Fatima
+2026-06,Activo,60,FALSE,Pedro Antonio
+2026-06,Activo,80,FALSE,Julio Cesar
+2026-06,Activo,80,TRUE,Nayeli
+2026-06,Activo,70,TRUE,Mario
+2026-06,Activo,70,TRUE,Carlos Mejia
+2026-06,Activo,70,TRUE,Pedro
+2026-06,Activo,70,FALSE,Carlos Mejia
+2026-06,Activo,80,TRUE,Nayeli
+2026-06,Activo,70,TRUE,Carlos Mejia
+2026-06,Activo,70,TRUE,Vanny
+2026-06,Activo,60,FALSE,Fer F
+2026-06,Activo,70,FALSE,Fatima
+2026-06,Activo,80,FALSE,Vanny
+2026-06,Activo,50,FALSE,Ignacio
+2026-06,Activo,70,FALSE,Pedro Antonio
+2026-06,Activo,70,TRUE,Pedro Antonio
+2026-06,Activo,50,TRUE,Pedro Antonio
+2026-06,Activo,50,TRUE,Nayeli
+2026-06,Activo,50,FALSE,Aurelio
+2026-06,Activo,50,FALSE,Nayeli
+2026-06,Activo,60,FALSE,Pedro Antonio
+2026-06,Activo,70,FALSE,Vanny
+2026-06,Activo,80,TRUE,Ulises
+2026-06,Activo,50,FALSE,Nayeli
+2026-06,Activo,70,FALSE,Aurelio
+2026-07,Activo,60,TRUE,Nayeli
+2026-07,Activo,60,TRUE,Cesar Pestaña
+2026-07,Activo,100,TRUE,Pedro Antonio
+2026-07,Activo,70,TRUE,Fatima
+2026-07,Activo,80,TRUE,Nayeli
+2026-07,Activo,80,FALSE,Julio
+2026-07,Activo,80,TRUE,Pedro
+2026-07,Activo,75,TRUE,Pedro
+2026-07,Activo,75,TRUE,Mauricio
+2026-07,Activo,80,TRUE,Julio
+2026-07,Activo,80,TRUE,Fatima
+2026-07,Activo,50,TRUE,Nayeli
+2026-07,Activo,50,TRUE,Nayeli
+2026-07,Activo,100,FALSE,Mauricio
+2026-07,Activo,70,TRUE,Nayeli
+2026-07,Activo,70,TRUE,Julio
+2026-07,Activo,90,FALSE,Alfredo
+2026-07,Activo,100,TRUE,Nayeli
+2026-07,Activo,80,FALSE,Sin registro
+2026-07,Activo,90,TRUE,Fernanda
+2026-07,Activo,80,FALSE,Pedro
+2026-07,Activo,90,TRUE,Mario
+2026-07,Sin registro,75,FALSE,Nayeli
+2026-07,Sin registro,75,FALSE,Alfredo
+2026-07,Activo,50,FALSE,Julio Cesar
+2026-07,Activo,80,TRUE,Nayeli
+2026-07,Activo,50,TRUE,Mario Varela
+2026-07,Activo,50,FALSE,Mauricio
+2026-07,Activo,75,TRUE,Aurelio
+2026-07,Activo,80,TRUE,Pedro Antonio
+2026-07,Activo,50,FALSE,Aurelio
+2026-07,Activo,50,TRUE,Victor
+2026-07,Activo,100,TRUE,Ignacio
+2026-07,Activo,100,TRUE,Victor
+2026-07,Activo,90,TRUE,Julio
+2026-07,Activo,90,TRUE,Julio
+2026-07,Activo,90,TRUE,Nayeli
+2026-07,Activo,90,TRUE,Julio
+2026-07,Activo,90,TRUE,Julio
+2026-07,Activo,90,TRUE,Pedro Antonio
+2026-07,Activo,70,TRUE,Nayeli
+2026-07,Activo,75,FALSE,Nayeli
+2026-07,Activo,50,FALSE,Carlos
+2026-07,Activo,80,TRUE,Sin registro
+2026-08,Activo,80,FALSE,Julio Cesar
+2026-08,Activo,90,TRUE,Victor
+2026-08,Activo,50,FALSE,Mauricio
